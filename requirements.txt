@@ -1,4 +1,4 @@
-altgraph==0.17
+gitaltgraph==0.17
 certifi==2021.10.8
 charset-normalizer==2.0.8
 click==8.0.3
