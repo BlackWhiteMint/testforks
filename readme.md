@@ -1,0 +1,1 @@
+Hello everybody, this is test project for voice assistant Alisa Yandex
